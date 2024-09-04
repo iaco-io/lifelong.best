@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /hidden-new
+permalink: /
 
 author: iaco
 home-icon: true
