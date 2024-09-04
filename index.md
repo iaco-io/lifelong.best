@@ -16,24 +16,18 @@ show-home: true
 links-side: true
 
 links-home:
-  - title: ""
-    icon: fab fa-youtube
-    url: "/youtube"
+  - title: "Contact us"
+    icon: fa fa-envelope
+    url: "mailto:asso@lifelong.best"
     newtab: true
     show-home: true
-    show-side: false
-  - title: ""
-    icon: fab fa-instagram
-    url: "/instagram"
-    newtab: true
-    show-home: true
-    show-side: false
-  - title: ""
+    show-side: true
+  - title: "Association (loi 1901)"
     icon: fa fa-feather-alt
     url: "/asso/loi1901"
     newtab: false
     show-home: true
-    show-side: false
+    show-side: true
 
 show-main: true
 

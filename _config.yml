@@ -1,6 +1,6 @@
 # Site
-title: IACO.io
-description: Build your Lifestyles. Build YOU.
+title: lifeℓong
+description: Build healthier habits. Build YOU.
 
 home-icon:
   top:
@@ -29,55 +29,29 @@ defaults:
       locale: en
 
 var:
-  statistics: "<script src='https://cdn.counter.dev/script.js' data-id='9d3a0066-9b07-4ef0-bab4-fc9a3e7bf1e6' data-utcoffset='0'></script>"
-  hidden-text: "<span style='display: none;'> <a rel='me' href='https://masto.ai/@iaco'></a> <a rel='me' href='https://masto.ai/@iago'></a> </span>"
-  newsletter-readers: "400+"
+  statistics: ""
+  hidden-text: "<span style='display: none;'> <a rel='me' href='https://masto.ai/@lifelooooong'></a> <a rel='me' href='https://masto.ai/@lifelooooong'></a> </span>"
+  newsletter-readers: "10+"
 
-links-side:
-  - title: All Articles
-    icon: fa fa-feather-alt
-    url: /articles
-    newtab: false
-  - title: YouTube Videos
-    icon: fab fa-youtube
-    url: /youtube
-    newtab: true
-  - title: Instagram Posts
-    icon: fab fa-instagram
-    url: /instagram
-    newtab: true
-  # - title: Mastodon
-  #   icon: fab fa-mastodon
-  #   url: /masto
-  #   newtab: true
+links-side: false
+  # - title: All Articles
+  #   icon: fa fa-feather-alt
+  #   url: /articles
+  #   newtab: false
 
 links-footer:
   - title: "youtube"
-    icon: fab fa-youtube
-    url: /youtube
-    newtab: true
-  - title: "instagram"
-    icon: fab fa-instagram
-    url: /instagram
-    newtab: true
-  - title: "articles"
-    icon: fa fa-feather-alt
-    url: /articles
+    icon: fa fa-envelope
+    url: "mailto:asso@lifelong.best"
     newtab: false
-  # - title: "masto"
-  #   icon: fab fa-mastodon
-  #   url: /masto
-  #   newtab: true
-  - newline: true
-  - newline: true
-  # - title: "Privacy Policy | Terms & Conditions | Disclaimers"
-  #   gray: true
-  #   url: /terms
-  #   newtab: true
+  - title: "Association (loi 1901)"
+    icon: fa fa-feather-alt
+    url: /asso/loi1901
+    newtab: false
 
 # Authors
 author:
-  name: IACO.io
+  name: title: lifeℓong
   description: ""
   avatar: avatars/iaco.jpg
   email: hi@iaco.io
