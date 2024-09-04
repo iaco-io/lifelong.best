@@ -40,7 +40,7 @@ links-side: false
   #   newtab: false
 
 links-footer:
-  - title: "youtube"
+  - title: "Contact us"
     icon: fa fa-envelope
     url: "mailto:asso@lifelong.best"
     newtab: false
