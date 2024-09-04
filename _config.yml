@@ -15,7 +15,7 @@ favicon:
   png: logo/power.png
   ico: logo/power.ico
 
-url: "https://iaco.io"
+url: "https://lifelong.best"
 baseurl: "" # or "/blog" or "/site"
 include: ["_pages", ".well-known"]
 permalink: /article/:title/
